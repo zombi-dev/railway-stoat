@@ -1,3 +1,13 @@
+# What is different about this fork?
+claude opus 4.6 make optimised config for railway wow
+
+mount your volume here: `[TBA]`
+
+<br/>
+<br/>
+
+# normal readme continues:
+
 <div align="center">
 <h1>
   Stoat Self-Hosted
